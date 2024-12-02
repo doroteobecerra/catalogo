@@ -1,11 +1,11 @@
 
 import './App.css'
 
-function App() {
+function Home() {
 
   return (
-    <div className='bg-red-100'>
-      Hola mundo
+    <div className="bg-red-100">
+      Home
     </div>
   )
 }
