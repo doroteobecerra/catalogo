@@ -1,6 +1,3 @@
-
-import './App.css'
-
 function MyAccount() {
 
   return (
